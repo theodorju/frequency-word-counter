@@ -1,2 +1,2 @@
-# frequency-word-counter
-Frequency word counter on novels I've read.
+# Frequency word counter
+Frequency word counter and visualization on novels I've read.
